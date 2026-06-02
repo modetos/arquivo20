@@ -33,7 +33,3 @@ Arquivo20 é um website para criação e gerenciamento de fichas de personagem p
 [@guilherme8p9](https://github.com/guilherme8p9)
 
 ---
-
-## Documentação
-
-A Especificação de Requisitos de Software (ERS) do projeto está disponível em /docs/ERS.md
