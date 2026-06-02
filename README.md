@@ -9,7 +9,7 @@ Arquivo20 é um website para criação e gerenciamento de fichas de personagem p
 - HTML5
 - CSS3
 - JavaScript
-+++
+- +++
 
 ---
 
@@ -30,7 +30,7 @@ Arquivo20 é um website para criação e gerenciamento de fichas de personagem p
 ## Autores
 
 [@modetos](https://github.com/modetos)
-[@usuario](https://github.com/usuario)
+[@guilherme8p9](guilherme8p9)
 
 ---
 
