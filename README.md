@@ -1,6 +1,6 @@
 # Arquivo20
 
-Arquivo20 é um website para criação e gerenciamento de fichas de personagem para o RPG de mesa Tormenta 20. O sistema permite que o usuário crie uma conta, faça login e gerencie seus personagens de forma simples e intuitiva.
+Arquivo20 é um website para criação e gerenciamento de fichas de personagem para o RPG de mesa Tormenta 20. O sistema permite que o usuário crie uma conta, faça login e gerencie seus personagens de forma simples e intuitiva. Aqui armazeno o front-end da landing page do site.
 
 ---
 
