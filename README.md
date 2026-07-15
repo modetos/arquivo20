@@ -9,8 +9,6 @@ Arquivo20 é um website para criação e gerenciamento de fichas de personagem p
 - HTML5
 - CSS3
 - JavaScript
-- +++
-
 ---
 
 ## Como Rodar Localmente
