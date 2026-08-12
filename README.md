@@ -13,11 +13,9 @@ Arquivo20 é um website para criação e gerenciamento de fichas de personagem p
 
 ## Como Rodar Localmente
 
-1. Clone o repositório:
-   git clone https://github.com/usuario/arquivo20.git
+1. Clone o repositório
 
-2. Acesse a pasta do projeto:
-   cd arquivo20
+2. Acesse a pasta do projeto
 
 3. Abra o arquivo index.html no navegador.
 
